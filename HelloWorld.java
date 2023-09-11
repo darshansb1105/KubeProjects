@@ -1,7 +1,7 @@
 import java.net.InetAddress;
 import java.net.UnknownHostException;
 
-public class GetMachineNameAndIPAddress {
+public class HelloWorld {
 
     public static void main(String[] args) throws UnknownHostException {
         // Get the machine name
