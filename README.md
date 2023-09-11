@@ -1,4 +1,4 @@
-This is a simple java program to display machine name and ip address of the host
+This is a sample java program to display machine name and ip address of the host
 
 ## Source code
 
